@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+    background-image: url(./image/istockphoto-1466778028-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.container{         
+    text-align: center;
+    color: black;
+}
+
+h1,p{
+    margin: 10px 0;
+}
